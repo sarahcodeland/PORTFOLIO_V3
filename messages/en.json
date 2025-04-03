@@ -1,0 +1,393 @@
+{
+  "metadata": {
+    "default": {
+      "template": "Sarah Maheen",
+      "title": "Sarah Maheen | Fullstack Developer",
+      "description": "Frontend Developer specializing in building exceptional digital experiences with modern web technologies.",
+      "keywords": "SarahMaheen,Fullstack developer, MERNstack developer, Frontend Developer, Backend Developer, Web Developer, React, Next.js, TypeScript, Javascript,"
+    },
+    "home": {
+      "title": "Sarah Maheen | Fullstack Developer",
+      "description": "Welcome to my portfolio. I'm Sarah Maheen, a Fullstack Developer passionate about programming modern web experiences."
+    },
+    "about": {
+      "title": "About",
+      "description": "Learn more about Sarah Maheen, a Fullstack Developer with expertise in MERNstack, PostgreSQL, Next.js, and modern web technologies."
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "Get in touch with SarahMaheen. Let's discuss your next web project or potential collaboration opportunities."
+    },
+    "projects": {
+      "title": "Projects",
+      "description": "Explore my latest web development projects and technical work."
+    },
+    "notFound": {
+      "title": "404 Page Not Found",
+      "description": "The page you are looking for does not exist."
+    },
+    "error": {
+      "title": "Error",
+      "description": "An unexpected error occurred on the server."
+    }
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Page Not Found",
+    "description": "The page you're looking for doesn't exist or has been moved.",
+    "backToHome": "Back to Home"
+  },
+  "error": {
+    "code": "Error",
+    "title": "Something went wrong!",
+    "description": "An unexpected error has occurred. Please try again later.",
+    "tryAgain": "Try Again",
+    "returnHome": "Return Home"
+  },
+  "home": {
+    "hero": {
+      "title": "Full stack developer",
+      "description": "One of the minds behind powerful and scalable full-stack applications, built from front to back.Anyhow I am FRONTEND ADDICTED"
+    },
+    "about": {
+      "title": "About Me",
+      "description": "I am a programmer with a blend of self-taught expertise with formal education.who has been working in the front-to-back(full stack) field for more than a year and has done various projects for individuals and teams. Because I love coding and programming at leetcode, I am learning and improving my skills every day.",
+      "link": "Read More"
+    },
+    "projects": {
+      "title": "Projects",
+      "link": "View All"
+    },
+    "contact": {
+      "title": "Get in Touch"
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "background": {
+      "title": "Background",
+      "description": [
+        "I am a programmer with a blend of self-taught expertise with formal education.who has been working in the front-to-back(full stack) field for more than a year and has done various projects for individuals and teams. Because I love coding and programming, I am learning and improving my skills every day.",
+        "My goal is to continue my professional path and work in different teams and companies. I like to face new challenges and experiences to both improve my skills and learn new things. I am always looking to learn and improve and I hope to be able to play a useful and effective role in different projects."
+      ]
+    },
+    "experience": {
+      "title": "Experience",
+      "items": [
+        {
+          "title": "Frontend Developer",
+          "companyName": "as Freelancer",
+          "startDate": "2025-01",
+          "endDate": "current",
+          "responsibilities": [
+            "Built the official site for JuniorInnovatior",
+            "Collaborated with international individual and teams",
+            "Provide better and modern solutions to advance project goals",
+            "Deployment of the project in the host"
+          ]
+        },
+        {
+          "title": "Junior fullstack developer",
+          "companyName": "Leeza.app",
+          "startDate": "2024-09",
+          "endDate": "2025-01",
+          "responsibilities": [
+            "Development of therapy tracking app(version_1)",
+            "Improvement of soft skills",
+            "Resolved the backend slot system in official site",
+            "Provide better and modern solutions to advance goals"
+          ]
+        }
+      ]
+    },
+    "skills": {
+      "title": "Skills",
+      "languages": {
+        "title": "Programming Languages",
+        "items": ["JavaScript", "TypeScript", "HTML5", "CSS3", "C++"]
+      },
+      "frameworks": {
+        "title": "Frameworks & Libraries",
+        "items": [
+          "React.js",
+          "Next.js",
+          "Redux",
+          "React Query",
+          "React Hook Form",
+          "Tailwind CSS",
+          "Shadcn UI",
+          "Material UI",
+          "FlowbiteComponents",
+          "GSAP",
+          "Expressjs",
+          "Nodejs"
+        ]
+      },
+      "tools": {
+        "title": "Tools",
+        "items": ["Git", "GitHub", "VS Code", "Postman", "Figma", "Docker"]
+      },
+      "databases": {
+        "title": "Databases",
+        "items": [
+          "MongoDB",
+          "PostgreSQL",
+          "PrismaORM",
+          "Socket.IO",
+          "Firebase",
+          "Cloudinairy"
+        ]
+      },
+      "other": {
+        "title": "Other Skills",
+        "items": [
+          "Responsive Design",
+          "RESTful APIs",
+          "GraphQL",
+          "Nodemailer",
+          "AssemblyAI",
+          "Stripe",
+          "Supabase",
+          "Slack",
+          "Testing (Jest)"
+        ]
+      }
+    },
+    "education": {
+      "title": "Education",
+      "items": [
+        {
+          "degree": "Bachelor of Computer Application",
+          "university": "Osmania University",
+          "startDate": "2023",
+          "endDate": "present",
+          "description": "I am currently studying at the Nizam College, Hyderabad, Telangana."
+        }
+      ]
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "techTitle": "Technologies Used",
+    "featuresTitle": "Key Features",
+    "backToProjects": "← Back to Projects",
+    "github": "GitHub",
+    "liveDemo": "Live Demo",
+    "viewDetails": "View Details",
+    "items": [
+      {
+        "slug": "jit",
+        "title": "Junior Innovators Website",
+        "description": "The official company website for JIT, showcasing services and branding (Feb 2025 - Mar 2025)",
+        "longDescription": "Junior Innovators is a pioneering organization in Sudan dedicated to providing technological services and educatingchildren in electronics, programming, and artificial intelligence. As the Frontend Dev freelancer, I developed the responsive and user-friendly interface for Junior Innovators, a paid project. My role focused on optimizing performance, ensuring seamless navigation with responsiveness, and aligning the design with the project&apos;s educational goals.",
+        "client": "Freelance client",
+        "privateSource": true,
+        "privateDemo": false,
+        "tech": [
+          "Next.js",
+          "TypeScript",
+          "React Query",
+          "React Hook Form",
+          "Tailwind CSS",
+          "GSAP"
+        ],
+        "image": "/images/projects/jit.png",
+        "features": [
+          "modern and interactive website built using Next.js,",
+          "Utility-first responsive design",
+          "Smooth transitions and engaging user interactions",
+          "Created in right-to-left design formation",
+          "Works on mobile, tablet, and desktop",
+          "SEO-friendly and fast loading"
+        ],
+        "links": {
+          "github": "",
+          "live": "https://deluxe-sorbet-2e4df8.netlify.app/"
+        }
+      },
+      {
+        "slug": "Noble-Rain",
+        "title": "Noble-Rain (E-commerce)",
+        "description": "A modern, full-stack e-commerce web app with authentication, Stripe payments, and a responsive UI. 🚀🛒 (Feb 2025 - Mar 2025)",
+        "longDescription": "As the full stack Dev, SHOPPING_CART_APP is a modern and scalable e-commerce web application built with Vite, Tailwind CSS, Express.js, Stripe, Google & GitHub Auth, Firebase, PostgreSQL, and Prisma. It provides a seamless shopping experience  for users with secure authentication, smooth UI, and integrated payment solutions.",
+        "client": "Personal",
+        "privateSource": false,
+        "privateDemo": false,
+        "tech": [
+          "Vite",
+          "TypeScript",
+          "Redux",
+          "Tailwind CSS",
+          "Shadcn UI",
+          "Firebase",
+          "Google & GitHub Auth",
+          "Stripe API",
+          "Vercel",
+          "Express.js",
+          "Prisma ORM",
+          "PostgreSQL",
+          "Render"
+        ],
+        "image": "/images/projects/shopping-app.png",
+        "features": [
+          "User Authentication (Google & GitHub Login)",
+          "Product Listing & Details",
+          "Stripe Payment Integration 💳",
+          "Shopping cart and wishlist",
+          "Responsive & Fast UI",
+          "PostgreSQL Database with Prisma ORM"
+        ],
+        "links": {
+          "github": "https://github.com/sarahcodeland/SHOPPING_CART_APP",
+          "live": "https://shopping-cart-app-sandy-seven.vercel.app/"
+        }
+      },
+      {
+        "slug": "leeza.app",
+        "title": "Slot booking system ",
+        "description": "Built and integrated a Booking System into Leeza.app official website, resolving slot conflicts by ensuring no two clients book the same time and dynamically removing booked slots from the UI (Sep 2024 - Oct 2024)",
+        "longDescription": "Built and integrated a Booking System into Leeza.app official website, resolving slot conflicts by ensuring no two clients book the same time and dynamically removing booked slots from the UI.",
+        "client": "Leeza.app",
+        "privateSource": true,
+        "privateDemo": false,
+        "tech": [
+          "MERNstack",
+          "JavaScript",
+          "Local state",
+          "Tailwind CSS",
+          "Shadcn UI"
+        ],
+        "image": "/images/projects/leeza-white-booking.png",
+        "features": [
+          "Managed databases effectively and efficiently.",
+          "Handled booked slots",
+          "Upadated the user profile with booked slots",
+          "Ensured real-time response"
+        ],
+        "links": {
+          "github": "",
+          "live": "https://leeza.app/"
+        }
+      },
+      {
+        "slug": "E-learning-platform  ",
+        "title": "AI powered e-learning platform",
+        "description": "A modern MERN-based e-learning platform with AI-powered transcription, role-based dashboards, secure authentication, and seamless media storage - (Nov 2023 - Feb 2024)",
+        "longDescription": " E-Learning Platform is a modern and scalable online  education system built on top of the MERN stack.I worked as a backend dev in this project It provides seamless access to learning materials, video summaries using AI transcription, and a structured role-based dashboard for students and teachers. Secure authentication, payment integration, and cloud-based media storage enhance the user experience.",
+        "client": "Final Project(code for India Foundation)",
+        "privateSource": false,
+        "privateDemo": false,
+        "tech": [
+          "JavaScript",
+          "React.js",
+          "TypeScript",
+          "Tailwind CSS",
+          "Shadcn UI",
+          "FlowbiteComponents",
+          "Express.js",
+          "Nodejs",
+          "Mongodb",
+          "Firebase",
+          "AssemblyAI API",
+          "Cloudinairy",
+          "Vercel",
+          "Render"
+        ],
+        "image": null,
+        "features": [
+          "User authentication and authorization",
+          "AI-Powered Transcription & Summarization (Assembly AI API) ",
+          "Role-Based Dashboards (Students & Teachers) 📊",
+          "Secure Authentication (Google OAuth via Firebase) 🔐",
+          "Video & Image Storage (Cloudinary)",
+          "Payment Integration (Stripe)",
+          "Responsive & Modern UI (Tailwind CSS + ShadCN + Flowbite Components)",
+          "Smooth Navigation & User Experience"
+        ],
+        "links": {
+          "github": "https://github.com/sarahcodeland/LMS-MERN",
+          "live": "https://lms-mern-client-mu.vercel.app/"
+        }
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Me"
+  },
+  "shared": {
+    "languageSwitcher": {
+      "english": "English",
+      "persian": "Persian"
+    },
+    "downloadCv": {
+      "english": "(English)",
+      "persian": "(Persian)",
+      "download": "Download CV",
+      "error": "CV file not found or inaccessible",
+      "success": "CV file downloaded successfully"
+    },
+    "navbar": {
+      "links": {
+        "about": "About",
+        "projects": "Projects",
+        "contact": "Contact"
+      }
+    },
+    "socialLinks": {
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "email": "Email"
+    },
+    "contact": {
+      "connectWithMe": {
+        "title": "Connect With Me"
+      },
+      "contactInformation": {
+        "title": "Contact Information",
+        "email": "Email",
+        "emailValue": "sarahmaheen02@gmail.com",
+        "location": "Location",
+        "locationValue": "Hyderabad, India",
+        "phone": "Phone",
+        "phoneValue": "+91 9398480514",
+        "availableForRemoteWork": "Available for Remote Work"
+      },
+      "contactForm": {
+        "title": "Send a Message",
+        "description": "I'll get back to you as soon as possible",
+        "name": "Name",
+        "email": "Email",
+        "subject": "Subject",
+        "message": "Message",
+        "submitBtn": "Send Message"
+      },
+      "responses": {
+        "invalidData": "Invalid form data",
+        "envMissing": "Server configuration error",
+        "success": "Email sent successfully",
+        "error": "Failed to send email"
+      }
+    },
+    "validations": {
+      "name": {
+        "required": "Name is required",
+        "min": "Name must be at least {min} characters",
+        "max": "Name must be less than {max} characters"
+      },
+      "email": {
+        "required": "Email is required",
+        "invalid": "Please enter a valid email address"
+      },
+      "subject": {
+        "required": "Subject is required",
+        "min": "Subject must be at least {min} characters",
+        "max": "Subject must be less than {max} characters"
+      },
+      "message": {
+        "required": "Message is required",
+        "min": "Message must be at least {min} characters",
+        "max": "Message must be less than {max} characters"
+      }
+    }
+  }
+}
