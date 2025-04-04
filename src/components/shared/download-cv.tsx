@@ -35,15 +35,6 @@ export function DownloadCv() {
           />
           {t('download')} {t('english')}
         </DropdownMenuItem>
-        {/* <DropdownMenuItem onClick={() => handleDownload('fa')}>
-          <Image
-            alt='Persian'
-            height={20}
-            src='/images/flags/ir-flag.gif'
-            width={20}
-          />
-          {t('download')} {t('persian')}
-        </DropdownMenuItem> */}
       </DropdownMenuContent>
     </DropdownMenu>
   );

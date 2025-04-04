@@ -21,14 +21,6 @@ export function DownloadCvBtns() {
           width={20}
         />
       </Button>
-      {/* <Button variant='outline' onClick={() => handleDownload('fa')}>
-        <Image
-          alt='Persian'
-          height={20}
-          src='/images/flags/ir-flag.gif'
-          width={20}
-        />
-      </Button> */}
     </div>
   );
 }
